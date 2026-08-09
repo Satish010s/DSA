@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Satish010s/DSA/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Satish010s/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satish010s/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Satish010s/DSA/tree/master/0064-minimum-path-sum) |
 | [0486-predict-the-winner](https://github.com/Satish010s/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satish010s/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satish010s/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/Satish010s/DSA/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
