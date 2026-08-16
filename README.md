@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satish010s/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satish010s/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satish010s/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Satish010s/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satish010s/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Satish010s/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Satish010s/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satish010s/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Satish010s/DSA/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -77,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
@@ -84,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -91,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
