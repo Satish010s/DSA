@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Satish010s/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Satish010s/DSA/tree/master/2206-divide-array-into-equal-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satish010s/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Satish010s/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Satish010s/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
 | ------- |
@@ -94,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Satish010s/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -103,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -111,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Satish010s/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Satish010s/DSA/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Satish010s/DSA/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
@@ -144,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Satish010s/DSA/tree/master/1872-stone-game-viii) |
 ## Nim Game
 |  |
 | ------- |
