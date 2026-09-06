@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Satish010s/DSA/tree/master/0115-distinct-subsequences) |
 | [1927-sum-game](https://github.com/Satish010s/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Satish010s/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Satish010s/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Satish010s/DSA/tree/master/0064-minimum-path-sum) |
+| [0115-distinct-subsequences](https://github.com/Satish010s/DSA/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Satish010s/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Satish010s/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Satish010s/DSA/tree/master/1140-stone-game-ii) |
