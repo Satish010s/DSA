@@ -267,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Satish010s/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Satish010s/DSA/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
