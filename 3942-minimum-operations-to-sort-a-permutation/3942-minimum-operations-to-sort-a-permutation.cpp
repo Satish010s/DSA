@@ -29,7 +29,7 @@ public:
             ans=min({ans,shift,revShiftRev});
         }
         if(isDecreasing){
-            int shiftRev=zeroIdx+2;
+            int shiftRev=(zeroIdx+1)+1;
             int revShift=1+(n-zeroIdx-1);
             ans=min({ans,shiftRev,revShift});
         }
