@@ -1,21 +1,28 @@
 class Solution {
 public:
     int sortPermutation(vector<int>& nums) {
-        int n=nums.size();
-        int k=-1;
-        bool isSorted=true;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=i){
-                 isSorted=false;
-                 break;
+        int n = nums.size();
+        int k = -1;
+
+        unordered_map<int, int> eleIdx;
+
+        for (int i = 0; i < n; i++) {
+            eleIdx[nums[i]] = i;
+        }
+
+        for (int i = 0; i < n; i++) {
+            while (nums[i] != i) {
+                int j = eleIdx[i];
+
+                k &= nums[i] & nums[j];
+
+                swap(nums[i], nums[j]);
+
+                eleIdx[nums[i]] = i;
+                eleIdx[nums[j]] = j;
             }
         }
-        if(isSorted) return 0;
-        for(int i=0;i<n;i++){
-            if(nums[i]!=i){
-                k&=nums[i];
-            }
-        }
-        return max(k,0);
+
+        return max(k, 0);
     }
 };
