@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satish010s/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Satish010s/DSA/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Satish010s/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Satish010s/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Satish010s/DSA/tree/master/0064-minimum-path-sum) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satish010s/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Satish010s/DSA/tree/master/0486-predict-the-winner) |
 | [0835-image-overlap](https://github.com/Satish010s/DSA/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Satish010s/DSA/tree/master/0877-stone-game) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Satish010s/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Satish010s/DSA/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Satish010s/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Satish010s/DSA/tree/master/0877-stone-game) |
